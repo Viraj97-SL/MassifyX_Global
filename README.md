@@ -1,4 +1,4 @@
-# MassifyX Global — Website
+# NORVENZIA — Website
 
 Procurement and supply chain operations for mid-market companies: an EU-based
 engagement point in Sweden paired with senior-led delivery from Sri Lanka.
@@ -15,6 +15,15 @@ of the running site:
 |---|---|
 | ![Live disruption map](public/img/warroom/warroom-map-overview.jpg) | ![Feed search and sort](public/img/warroom/warroom-search-sort.jpg) |
 | ![Real severity verdict](public/img/warroom/warroom-severe-impact.jpg) | ![Cited sources and actions](public/img/warroom/warroom-sources-panel.jpg) |
+
+## Related services
+
+This site is paired with two decoupled microservices:
+
+| Service | Repo | Role |
+|---|---|---|
+| 🕵️ War Room | [`massifyx-warroom`](https://github.com/Viraj97-SL/massifyx-warroom) *(private)* | LangGraph deep-agent investigation service — turns one disruption incident into a cited impact briefing |
+| 📡 Intelligence Service (MIS) | [`massifyx-intelligence`](https://github.com/Viraj97-SL/massifyx-intelligence) | GDELT ingest + AI enrichment + read API powering this site's `/live` disruption monitor |
 
 ## Run it
 
