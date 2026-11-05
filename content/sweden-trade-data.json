@@ -7,7 +7,7 @@
       "TAB3197",
       "TAB5390"
     ],
-    "generatedAt": "2026-08-02T09:46:45.843Z",
+    "generatedAt": "2026-11-05T13:48:59.443Z",
     "latestYear": 2024,
     "yearsCovered": [
       1998,
@@ -41,169 +41,169 @@
   },
   "hero": {
     "year": 2024,
-    "totalImportsSek": 2007233421,
-    "totalExportsSek": 2063027210,
-    "tradeBalanceSek": 55793789
+    "totalImportsSek": 2013174613,
+    "totalExportsSek": 2058885825,
+    "tradeBalanceSek": 45711212
   },
   "topGoodsCategories": [
     {
       "code": "7",
       "label": "Machinery and transport equipment",
-      "importValueSek": 740225499,
-      "share": 0.3848329196204825
+      "importValueSek": 744658974,
+      "share": 0.38597237795802725
     },
     {
       "code": "5",
       "label": "Chemicals and related products, n.e.s.",
-      "importValueSek": 238873805,
-      "share": 0.1241871617813639
+      "importValueSek": 238987559,
+      "share": 0.12387226860924708
     },
     {
       "code": "6",
       "label": "Manufactured goods classif. by material",
-      "importValueSek": 237424565,
-      "share": 0.12343372210496227
+      "importValueSek": 238053420,
+      "share": 0.12338808475628604
     },
     {
       "code": "8",
       "label": "miscellaneous manufactured articles",
-      "importValueSek": 212297235,
-      "share": 0.11037037346427009
+      "importValueSek": 212319653,
+      "share": 0.11004973312204144
     },
     {
       "code": "3",
       "label": "Mineral fuels, lubric. and related materials",
-      "importValueSek": 210207754,
-      "share": 0.10928408141568785
+      "importValueSek": 210644575,
+      "share": 0.10918150503173553
     },
     {
       "code": "0",
       "label": "food and live animals",
-      "importValueSek": 185550836,
-      "share": 0.09646529341716359
+      "importValueSek": 185568991,
+      "share": 0.09618430346283822
     },
     {
       "code": "2",
       "label": "crude materials, inedible, except fuels",
-      "importValueSek": 63990678,
-      "share": 0.033267861586100504
+      "importValueSek": 64100614,
+      "share": 0.0332246938236047
     },
     {
       "code": "1",
       "label": "beverages and tobacco",
-      "importValueSek": 21098701,
-      "share": 0.010968920574876865
+      "importValueSek": 21098711,
+      "share": 0.010935904811266247
     },
     {
       "code": "4",
       "label": "animal and vegetable oils,fats and waxes",
-      "importValueSek": 12614251,
-      "share": 0.006557973276675236
+      "importValueSek": 12658830,
+      "share": 0.006561337320654399
     },
     {
       "code": "9",
       "label": "goods not classified elsewhere",
       "importValueSek": 1215060,
-      "share": 0.000631692758417207
+      "share": 0.000629791104299081
     }
   ],
   "topPartners": [
     {
       "code": "DE",
       "label": "Germany",
-      "importValueSek": 322527320,
-      "exportValueSek": 211056386,
-      "share": 0.16068251785052357,
+      "importValueSek": 322506924,
+      "exportValueSek": 206620533,
+      "share": 0.1601981874385975,
       "lat": 52.52,
       "lon": 13.405
     },
     {
       "code": "NL",
       "label": "Kingdom of the Netherlands",
-      "importValueSek": 223639136,
-      "exportValueSek": 107989626,
-      "share": 0.11141660638979566,
+      "importValueSek": 223756090,
+      "exportValueSek": 108021168,
+      "share": 0.11114589293700775,
       "lat": 52.3676,
       "lon": 4.9041
     },
     {
       "code": "NO",
       "label": "Norway",
-      "importValueSek": 200533355,
-      "exportValueSek": 201911484,
-      "share": 0.0999053487760754,
+      "importValueSek": 200818419,
+      "exportValueSek": 202148173,
+      "share": 0.09975211176577657,
       "lat": 59.9139,
       "lon": 10.7522
     },
     {
       "code": "DK",
       "label": "Denmark",
-      "importValueSek": 133437445,
-      "exportValueSek": 140428325,
-      "share": 0.06647828977136187,
+      "importValueSek": 133454338,
+      "exportValueSek": 140333107,
+      "share": 0.06629049320323413,
       "lat": 55.6761,
       "lon": 12.5683
     },
     {
       "code": "CN",
       "label": "China",
-      "importValueSek": 104944028,
+      "importValueSek": 105412018,
       "exportValueSek": 76215988,
-      "share": 0.05228292180772731,
+      "share": 0.05236109044854124,
       "lat": 39.9042,
       "lon": 116.4074
     },
     {
       "code": "FI",
       "label": "Finland",
-      "importValueSek": 101306130,
-      "exportValueSek": 139056041,
-      "share": 0.05047052771248173,
+      "importValueSek": 101458986,
+      "exportValueSek": 139029632,
+      "share": 0.050397509160324386,
       "lat": 60.1699,
       "lon": 24.9384
     },
     {
       "code": "BE",
       "label": "Belgium",
-      "importValueSek": 95396347,
-      "exportValueSek": 97887429,
-      "share": 0.04752628468714601,
+      "importValueSek": 95483622,
+      "exportValueSek": 98079279,
+      "share": 0.047429379142483755,
       "lat": 50.8503,
       "lon": 4.3517
     },
     {
       "code": "PL",
       "label": "Poland",
-      "importValueSek": 91231447,
-      "exportValueSek": 80304205,
-      "share": 0.04545133916440504,
+      "importValueSek": 91248641,
+      "exportValueSek": 80345150,
+      "share": 0.04532574591928852,
       "lat": 52.2297,
       "lon": 21.0122
     },
     {
       "code": "GB",
       "label": "United Kingdom",
-      "importValueSek": 73968254,
-      "exportValueSek": 110805282,
-      "share": 0.036850848150559966,
+      "importValueSek": 74077768,
+      "exportValueSek": 110805399,
+      "share": 0.03679649421448372,
       "lat": 51.5074,
       "lon": -0.1278
     },
     {
       "code": "US",
       "label": "United States of America",
-      "importValueSek": 71489027,
+      "importValueSek": 71601943,
       "exportValueSek": 186505287,
-      "share": 0.0356157018172726,
+      "share": 0.03556668285882065,
       "lat": 38.9072,
       "lon": -77.0369
     }
   ],
   "concentration": {
-    "top5PartnerImportShare": 0.4907656845954838,
-    "top10PartnerImportShare": 0.7066803861273492,
-    "hhiPartners": 689.3380172933811,
-    "top5GoodsImportShare": 0.8521082583867666
+    "top5PartnerImportShare": 0.4897477757931572,
+    "top10PartnerImportShare": 0.7052635870885582,
+    "hhiPartners": 686.2015300198723,
+    "top5GoodsImportShare": 0.8524639694773374
   },
   "balance": {
     "years": [
@@ -262,7 +262,7 @@
       1606400000,
       2053300000,
       2050300000,
-      2007400000
+      2013300000
     ],
     "exportsSek": [
       675100000,
@@ -291,7 +291,7 @@
       1626500000,
       1997900000,
       2096200000,
-      2063000000
+      2058800000
     ],
     "balanceSek": [
       130100000,
@@ -320,7 +320,7 @@
       20100000,
       -55400000,
       45900000,
-      55600000
+      45500000
     ]
   },
   "trend": {
@@ -378,7 +378,7 @@
       0.16701779876498365,
       0.27819970119521914,
       -0.0014610626795889543,
-      -0.02092376725357265
+      -0.01804613958932839
     ],
     "exportGrowthPct": [
       0.038068434306028735,
@@ -406,7 +406,7 @@
       0.1397239156331021,
       0.22834306793728865,
       0.04920166174483207,
-      -0.015838183379448527
+      -0.017841808987692016
     ]
   }
 }
